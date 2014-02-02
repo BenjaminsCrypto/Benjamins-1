@@ -19,9 +19,9 @@ public:
      */
     enum Unit
     {
-        BTC,
-        mBTC,
-        uBTC
+        BEN,
+        mBEN,
+        uBEN
     };
 
     //! @name Static API

@@ -1,4 +1,4 @@
-Bitcoin-Qt: Qt4 GUI for Bitcoin
+Benjamins-Qt: Qt4 GUI for Bitcoin
 ===============================
 
 Build instructions
