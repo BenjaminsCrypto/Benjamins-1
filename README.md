@@ -12,8 +12,6 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Benjamins is also the name of the open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Benjamins client software, see http://www.coingen.io.
 
 License
 -------
@@ -51,7 +49,7 @@ Testing
 Testing and code review is the bottleneck for development; we get more pull
 requests than we can review and test. Please be patient and help out, and
 remember this is a security-critical project where any mistake might cost people
-lots of money.
+lots of money
 
 ### Automated Testing
 
